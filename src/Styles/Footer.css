@@ -1,0 +1,17 @@
+.footer-container{
+    width: 100%;
+    background-color: #3e4551;
+    position:absolute;
+    bottom: 0;
+}
+.heading:hover{
+    font-weight: bolder;
+    font-size: 21px;
+}
+
+ul li a{
+    text-decoration: none;
+}
+
+
+

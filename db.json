@@ -1,0 +1,52 @@
+{
+  "cartArr": [
+    []
+  ],
+  "restroId": [
+    {
+      "restaurantId": "722317",
+      "id": 1
+    }
+  ],
+  "userData": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "userEmail": "hello",
+      "userPassword": "hello",
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "userEmail": "gourii",
+      "userPassword": "gourii",
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "userEmail": "hello",
+      "userPassword": "hello",
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    }
+  ]
+}
